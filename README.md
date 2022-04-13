@@ -36,8 +36,8 @@
 <a href="https://firebase.google.com/" target="_blank" title="Firebase" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" title="firebase" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" title="Google Cloud" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="Google Cloud" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" title="Docker" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/> </a>  
-<a href="https://www.jenkins.io/" target="_blank" title="Jenkins" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="docker" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" title="Docker" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/> </a>  
+<a href="https://www.jenkins.io/" target="_blank" title="Jenkins" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" title="Jenkins" width="40" height="40"/> </a> 
 
 ## Some of my Github Stats
 
