@@ -29,7 +29,7 @@
 
 
 ### Tools:
-<a target="_blank" href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://www.digitalocean.com/_next/static/media/logo.87a8f3b8.svg" alt="firebase" width="40" height="40"/> </a>
+<a target="_blank" href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-512.png" alt="firebase" width="40" height="40"/> </a>
 <a target="_blank" href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="firebase" width="40" height="40"/> </a>
 <a target="_blank" href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a target="_blank" href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
