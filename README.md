@@ -29,8 +29,10 @@
 
 
 ### Tools & Frameworks:
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="flask" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" alt="flask" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer" alt='Laravel' title='Laravel'> 
+    <img src="https://user-images.githubusercontent.com/78617974/123522723-81bc3b00-d695-11eb-9398-b5dadd054570.png" alt="flask" width="40" height="40"/> 
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer" alt='VueJs' title='VueJs'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" alt="flask" width="40" height="40"/> </a>
 <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-512.png" alt="firebase" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="firebase" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
