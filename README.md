@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kareem Badawy, glad to have you here:sunglasses:</h1>
-<h2 align="center">I'm Excited To Learn</h2>
+<!-- <h2 align="center">I'm Excited To Learn</h2> -->
 
 <!--- -------------------------Badges------------------- -->
-[![Linkedin Badge](https://img.shields.io/badge/-AbdassalamAhmad-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareem95/)](https://www.linkedin.com/in/kareem95/)
+[![Linkedin Badge](https://img.shields.io/badge/-KareemBadawy-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kareem95/)](https://www.linkedin.com/in/kareem95/)
 [![CV](https://img.shields.io/badge/CV-drive-blue)](https://drive.google.com/file/d/1j3nH-NbBw8giLqcUlAIKa03dFUMa6m1n/view)
 
 - 🔭 I’m working at **AIDM**
