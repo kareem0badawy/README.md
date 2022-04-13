@@ -29,17 +29,24 @@
 
 
 ### Tools & Frameworks:
-<a href="https://laravel.com/" target="_blank" rel="noreferrer" alt='Laravel' title='Laravel'> 
-    <img src="https://user-images.githubusercontent.com/78617974/123522723-81bc3b00-d695-11eb-9398-b5dadd054570.png" alt="flask" width="40" height="40"/> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer" alt='Laravel'> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="flask" width="40" height="40"/> 
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer" alt='VueJs' title='VueJs'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-512.png" alt="firebase" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="firebase" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer" alt='VueJs'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" width="40" height="40"/> </a>
 
+<a href="https://www.digitalocean.com/" target="_blank" alt='Digitalocean' rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/89_Digital_Ocean-512.png" alt="Digitalocean" width="40" height="40"/> </a>
+
+<a href="https://aws.amazon.com/" target="_blank" alt='AWS' rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" alt="AWS" width="40" height="40"/> </a>
+
+<a href="https://firebase.google.com/" target="_blank" alt="Firebase" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+
+<a href="https://cloud.google.com" target="_blank" alt="Google Cloud" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" alt="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+<a href="https://www.docker.com/" target="_blank" alt="Docker" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
+
+<a href="https://www.jenkins.io/" target="_blank" alt="Jenkins" rel="noreferrer"> <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="docker" width="40" height="40"/> </a> 
 
 ## Some of my Github Stats
 
